@@ -17,6 +17,10 @@ What is a meta learner in machine learning?
 
 -> Meta - classifier is the classifier that makes a final prediction among all the predictions by using those predictions as features.
 
+
+
 There are two ways to train meta-classifier:-
+
 (i) Either you can use the output of the initial level classifier as inputs or features to your metaclassifier.
+
 (ii) Use probabilities of your first level classifier as features to your meta-classifier.
