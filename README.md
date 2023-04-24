@@ -14,6 +14,7 @@ Most of the Machine-Learning and Data science competitions are won by using Stac
 What is a meta learner in machine learning?
 
 -> In machine learning , a meta-classifier is essentially a meta learning algorithm that is used for classification predictive modeling tasks.
+
 -> Meta - classifier is the classifier that makes a final prediction among all the predictions by using those predictions as features.
 
 There are two ways to train meta-classifier:-
